@@ -1,0 +1,57 @@
+:root {
+  /* fonts */
+  --btn-text: Montserrat;
+
+  /* font sizes */
+  --small-size: 12px;
+  --btn-text-size: 14px;
+  --h5-size: 16px;
+  --h3-size: 24px;
+  --h2-size: 40px;
+
+  /* Colors */
+  --color-gray-100: #e6e6e6;
+  --muted-color: #bdbdbd;
+  --second-text-color: #737373;
+  --secondary-color-2: #3c403d;
+  --dark-background-color: #252b42;
+  --light-text-color: #fff;
+  --primary-color: #23a6f0;
+  --secondary-color-1: #40bb15;
+  --danger-color: #e74040;
+
+  /* Gaps */
+  --gap-2xs: 5px;
+  --gap-xs: 10px;
+  --gap-sm: 15px;
+  --gap-md: 20px;
+  --gap-lg: 30px;
+  --gap-xl: 35px;
+  --gap-2xl: 80px;
+
+  /* Paddings */
+  --padding-5xs: 3px;
+  --padding-4xs: 5px;
+  --padding-3xs: 10px;
+  --padding-2xs: 15px;
+  --padding-xs: 19px;
+  --padding-sm: 20px;
+  --padding-md: 22px;
+  --padding-lg: 25px;
+  --padding-xl: 30px;
+  --padding-2xl: 35px;
+  --padding-3xl: 40px;
+  --padding-4xl: 80px;
+  --padding-5xl: 160px;
+
+  /* border radiuses */
+  --br-2xs: 3px;
+  --br-xs: 5px;
+  --br-sm: 10px;
+  --br-md: 20px;
+  --br-lg: 37px;
+  --br-xl: 44.79px;
+
+  /* Effects */
+  --light-drop-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
